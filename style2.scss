@@ -308,6 +308,15 @@ height: 65px;
 top: 5%;
 background: #6EBBD3;
 border-radius: 0 0 5px 5px;
+
+&:hover {
+  background: #c4aeae;
+}
+
+&:active {
+  background: #d15757;
+}
+
 }
 
 .black_button {
